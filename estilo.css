@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-	
+	 background: linear-gradient(#B79A9A,#B79A9A);
 	
 }
 
@@ -33,7 +33,7 @@ body, html {
 	border: 3px solid #140000;
 	background-color: #700000;
 	color: #FFFFFF;
-	margin: 5em;
+	margin: 4em;
 	height: 15em;
 	text-align: center;
 	padding: 4em;
@@ -60,4 +60,17 @@ body, html {
 main {
     flex: 1;
     padding: 20px;
+}
+
+.logos{
+    width: 30px;
+}
+
+.logoWhats{
+    width: 50px;
+}
+
+.content{
+    text-align: center;
+    margin: 3%;
 }
